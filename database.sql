@@ -1,3 +1,0 @@
-SELECT NOW();
-
-/*CREATE DATABASE tombInfo;*/
