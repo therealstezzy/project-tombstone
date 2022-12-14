@@ -5,7 +5,10 @@ class Person():
         self.dod = dod
         self.description = des
     
-    def getDescription():
-        pass
+    def getDescription(self):
+        return self.description
+
     
+
+
 
